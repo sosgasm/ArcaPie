@@ -8,18 +8,23 @@ I've had the privilege to have access to a woodworking space, providing all the 
 Also some basic knowledge of woodworking/some linux based OS/computers/electronics can come handy
 
 ### Prerequisites
-
+```
 Most used tools:
 * Hammer                                                                                                     │
 * Sawtable                                                                                                   │
 * Screwdrivers                                                                                               │
 * Sandpaper 
-* scissors
-*
-
+* Scissors
+* Handsaw
+* Wood glue
+```
+ 
+```  
 Safety:
 * Goggles
 * Gloves
+* Patience
+```
 
 What things you need to install the software and how to install them
 
