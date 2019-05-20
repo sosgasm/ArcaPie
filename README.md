@@ -62,3 +62,9 @@ https://github.com/RetroPie/RetroPie-Setup/wiki/First-Installation
 ```
 ## The box
 My idea of an arcade box was simple. It had to be square with a cut out window for the monitor. 
+```
+Steps:
+* Decide for youself what the dimensions should be. In my case my choice was based on the size of my living room and location of the box (wall,table etc.)
+
+```
+
