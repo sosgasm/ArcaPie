@@ -10,21 +10,27 @@ Also some basic knowledge of woodworking/some linux based OS/computers/electroni
 ### Prerequisites
 ```
 Most used tools:
-* Hammer                                                                                                     │
-* Sawtable                                                                                                   │
-* Screwdrivers                                                                                               │
+* Hammer                                                                                                 
+* Sawtable                                                                                                
+* Screwdrivers                                                                                            
 * Sandpaper 
 * Scissors
 * Handsaw
-* Wood glue
 ```
  
 ```  
 Safety:
 * Goggles
 * Gloves
-* Patience
+* Noise cancelling earmuffs
 ```
+
+```
+Other:
+* Wood glue
+* Paint
+* Paintbrush
+* Stickers (decoration)
 
 What things you need to install the software and how to install them
 
