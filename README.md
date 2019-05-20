@@ -53,11 +53,11 @@ Other:
 * Paint
 * Paintbrush
 * Stickers (decoration)
-
+```
 
 ```
 I used the following manual to install RetroPie:
 https://github.com/RetroPie/RetroPie-Setup/wiki/First-Installation
 ```
-# The box
+## The box
 My idea of an arcade box was simple. It had to be square with a cut out window for the monitor. 
