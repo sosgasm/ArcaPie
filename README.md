@@ -1,7 +1,7 @@
 # ArcaPie
 
 ![Unfinished project example](https://www.prisamsterdam.com/img/IMG_20190308_185644.jpg)
-Format: ![Alt Text](url)
+
  
 ## A black box for retrogaming purposes
 
@@ -18,7 +18,7 @@ Hardware:
 ```
 ```
 Software:
-* RetroPie
+* RetroPie, check https://retropie.org.uk/ and https://github.com/RetroPie/RetroPie-Setup/wiki
 ```
 
 ```
@@ -28,6 +28,7 @@ Most used tools:
 * Screwdrivers                                                                                            
 * Sandpaper 
 * Scissors
+* Drill
 * Handsaw
 ```
  
