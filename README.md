@@ -23,6 +23,7 @@ Hardware:
 * Bluetooth Joypad
 * Bluetooth Keyboard
 ```
+
 ```
 Software:
 * RetroPie, check https://retropie.org.uk/ and https://github.com/RetroPie/RetroPie-Setup/wiki
@@ -54,6 +55,7 @@ Other:
 * Paintbrush
 * Stickers (decoration)
 ```
+
 ```
 I used the following manual to install RetroPie:
 https://github.com/RetroPie/RetroPie-Setup/wiki/First-Installation
