@@ -7,14 +7,21 @@
 
 ## Getting Started
 
-I've had the privilege to have access to a woodworking space, providing all the tools I needed. 
-Also some basic knowledge of woodworking/some linux based OS/computers/electronics can come handy.
+I've had the privilege to have access to a woodworking space, providing all the tools I needed. Also I had access to free wood. 
+Basic knowledge of woodworking/some linux based OS/computers/electronics might come handy.
+If you don't have above, find your resources: Friends, fam, local Hackerspace etc.
 
 ### Prerequisites
+Use stuff you have and never use. I had my monitor, bluethooth joypad and keyboard for a few years already, doing nothing at all.
+So when a friend donated a Pi 3B+ I decided to give them a purpose. 
+
 ```
 Hardware:
 * Raspberry Pi 3B+
+* 32GB MicroSD card
 * 10,5 inch monitor with HDMI/VGA ports
+* Bluetooth Joypad
+* Bluetooth Keyboard
 ```
 ```
 Software:
@@ -47,82 +54,10 @@ Other:
 * Paintbrush
 * Stickers (decoration)
 
-What things you need to install the software and how to install them
 
 ```
-Give examples
+I used the following manual to install RetroPie:
+https://github.com/RetroPie/RetroPie-Setup/wiki/First-Installation
 ```
-
-### Installing
-
-A step by step series of examples that tell you how to get a development env running
-
-Say what the step will be
-
-```
-Give the example
-```
-
-And repeat
-
-```
-until finished
-```
-
-End with an example of getting some data out of the system or using it for a little demo
-
-## Running the tests
-
-Explain how to run the automated tests for this system
-
-### Break down into end to end tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-### And coding style tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-## Deployment
-
-Add additional notes about how to deploy this on a live system
-
-## Built With
-
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
-
-## Contributing
-
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
-
-## Versioning
-
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
-
-## Authors
-
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
-
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
-
-## Acknowledgments
-
-* Hat tip to anyone whose code was used
-* Inspiration
-* etc
-
-
+## The box
+My idea of an arcade box was simple. It had to be square with a cut out window for the monitor. 
