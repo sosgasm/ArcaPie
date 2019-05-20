@@ -5,9 +5,19 @@
 ## Getting Started
 
 I've had the privilege to have access to a woodworking space, providing all the tools I needed. 
-Also some basic knowledge of woodworking/some linux based OS/computers/electronics can come handy
+Also some basic knowledge of woodworking/some linux based OS/computers/electronics can come handy.
 
 ### Prerequisites
+```
+Hardware:
+* Raspberry Pi 3B+
+* 10,5 inch monitor with HDMI/VGA ports
+```
+```
+Software:
+* RetroPie
+```
+
 ```
 Most used tools:
 * Hammer                                                                                                 
@@ -27,6 +37,7 @@ Safety:
 
 ```
 Other:
+* Wood
 * Wood glue
 * Paint
 * Paintbrush
