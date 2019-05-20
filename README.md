@@ -54,7 +54,6 @@ Other:
 * Paintbrush
 * Stickers (decoration)
 ```
-
 ```
 I used the following manual to install RetroPie:
 https://github.com/RetroPie/RetroPie-Setup/wiki/First-Installation
