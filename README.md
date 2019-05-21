@@ -64,9 +64,7 @@ My idea of an arcade box was simple. It had to be square with a cut out window f
 ![Cutout for monitor](https://www.prisamsterdam.com/img/frontbox.jpg)
  
 ```
-
 Steps:
-
 * Decide the box it's dimensions: <todo: insert dimension>
 * Cut out the 6 sides of your box. For this I used my least favorite tool: the saw table.
 I made sure the thickness of the wood was > than the head of the screws I used to attach the planks together.
