@@ -13,8 +13,6 @@ Basic knowledge of woodworking/some linux based OS/computers/electronics might c
 If you don't have above, find your resources: Friends, fam, local Hackerspace etc.
 
 ### Prerequisites
-Use stuff you have and never use. I had my monitor, bluethooth joypad and keyboard for a few years already, doing nothing at all.
-So when a friend donated a Pi 3B+ I decided to give them a purpose. 
 
 ```
 Hardware:
@@ -69,11 +67,10 @@ My idea of an arcade box was simple. It had to be square with a cut out window f
 
 Steps:
 
-* Decide for youself what the dimensions should be. In my case the size of the box was based on the size
-of my living room and location of the box (wall,table etc.)
+* Decide the box it's dimensions: <todo: insert dimension>
 * Cut out the 6 sides of your box. For this I used my least favorite tool: the saw table.
 I made sure the thickness of the wood was > than the head of the screws I used to attach the planks together.
-* Take your time to smoothen the wood with sandpaper, make it free from splinters
+* Smoothen the wood with sandpaper
 ```
 
 ## License
