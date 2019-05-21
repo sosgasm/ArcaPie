@@ -48,11 +48,12 @@ Safety:
 
 ```
 Other:
-* Wood
+* (Ply)wood
 * Wood glue
-* Paint
+* Black paint
 * Paintbrush
 * Stickers (decoration)
+* Screws <todo: insert screw type>
 ```
 
 ```
@@ -60,15 +61,21 @@ I used the following manual to install RetroPie:
 https://github.com/RetroPie/RetroPie-Setup/wiki/First-Installation
 ```
 ## The box
-My idea of an arcade box was simple. It had to be square with a cut out window for the monitor.
+My idea of an arcade box was simple: A square or rectangle shape with a cut out window for the monitor.
 ![Cutout for monitor](https://www.prisamsterdam.com/img/frontbox.jpg)
  
 ```
-Steps:
-* Decide the box it's dimensions: <todo: insert dimension>
-* Cut out the 6 sides of your box. For this I used my least favorite tool: the saw table.
-I made sure the thickness of the wood was > than the head of the screws I used to attach the planks together.
-* Smoothen the wood with sandpaper
+Cut out six rectangles to create the box:
+
+* Cut out 6 rectangles with the following  dimensions: <todo:insert dimensions>
+* Smoothen the them with sandpaper
+* Take one of the planks with dimensions <todo: insert dimensions>
+* Lay the front on the monitor on the plank to draw the outline
+* Cut out the outline to create the placeholder for the monitor
+
+Decoration:
+* Paint the wooden rectangles black on all sides
+
 ```
 
 ## License
