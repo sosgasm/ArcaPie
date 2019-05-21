@@ -64,7 +64,15 @@ https://github.com/RetroPie/RetroPie-Setup/wiki/First-Installation
 My idea of an arcade box was simple. It had to be square with a cut out window for the monitor. 
 ```
 Steps:
-* Decide for youself what the dimensions should be. In my case my choice was based on the size of my living room and location of the box (wall,table etc.)
 
+* Decide for youself what the dimensions should be. In my case the size of the box was based on the size 
+of my living room and location of the box (wall,table etc.)
+* Cut out the 6 sides of your box. I used my least favorite tool: the saw table.
+I made sure the thickness of the wood was > than the head of the screws I used to attach the planks together.
 ```
+
+## License
+
+This project is licensed under a [Creative Commons Attribution 3.0 Unported License](https://creativecommons.org/licenses/by/3.0/)
+
 
