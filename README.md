@@ -6,6 +6,7 @@
 ## A black box for retrogaming purposes
 
 ## Getting Started
+The 80's kid in me wanted a portable arcade unit. So I made one. 
 
 I've had the privilege to have access to a woodworking space, providing all the tools I needed. Also I had access to free wood. 
 Basic knowledge of woodworking/some linux based OS/computers/electronics might come handy.
@@ -61,14 +62,18 @@ I used the following manual to install RetroPie:
 https://github.com/RetroPie/RetroPie-Setup/wiki/First-Installation
 ```
 ## The box
-My idea of an arcade box was simple. It had to be square with a cut out window for the monitor. 
+My idea of an arcade box was simple. It had to be square with a cut out window for the monitor.
+![Cutout for monitor](https://www.prisamsterdam.com/img/frontbox.jpg)
+ 
 ```
+
 Steps:
 
-* Decide for youself what the dimensions should be. In my case the size of the box was based on the size 
+* Decide for youself what the dimensions should be. In my case the size of the box was based on the size
 of my living room and location of the box (wall,table etc.)
-* Cut out the 6 sides of your box. I used my least favorite tool: the saw table.
+* Cut out the 6 sides of your box. For this I used my least favorite tool: the saw table.
 I made sure the thickness of the wood was > than the head of the screws I used to attach the planks together.
+* Take your time to smoothen the wood with sandpaper, make it free from splinters
 ```
 
 ## License
