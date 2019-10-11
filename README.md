@@ -77,7 +77,8 @@ Cut out six rectangles to create the box:
 * Cut out the outline to create the placeholder for the monitor
 
 Decoration:
-* Paint the planks black. Maybe cut out a little outline for the monitor. In the piture you can see I cut an ooutline and painted it silver. I put stickers on it after. 
+* Paint the planks black. Maybe cut out a little outline for the monitor. As you can see in the picture I
+cut out an outline and painted it silver. I put stickers on it after. 
 
 ```
 
