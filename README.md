@@ -1,4 +1,5 @@
 # ArcaPie
+![Finished project example](https://www.prisamsterdam.com/img/arcapie/arcadebox.jpeg)
 
 ![Unfinished project example](https://www.prisamsterdam.com/img/arcapie/IMG_20190308_185644.jpg)
 
@@ -16,7 +17,7 @@ If you don't have above, find your resources: Friends, fam, local Hackerspace et
 
 ```
 Hardware:
-* Raspberry Pi 3B+ (Donation from DrWhax)
+* Raspberry Pi 3B+ (Donation from @DrWhax)
 * 32GB MicroSD card
 * 10,5 inch monitor with HDMI/VGA ports (Electronics shop in my hometown)
 * Bluetooth Joypad (Ebay)
@@ -77,13 +78,14 @@ Cut out six rectangles to create the box:
 * Cut out the outline to create the placeholder for the monitor
 
 Decoration:
-* Paint the planks black. Maybe cut out a little outline for the monitor. As you can see in the picture I
-cut out an outline and painted it silver. I put stickers on it after. 
+* Paint the wood. Maybe cut out a little outline for the monitor. As you can see in the picture I also cut out an outline and painted it silver.
+The stickers are for decoration 
 
 ```
 
 ## License
 
 This project is licensed under a [Creative Commons Attribution 3.0 Unported License](https://creativecommons.org/licenses/by/3.0/)
+
 
 
