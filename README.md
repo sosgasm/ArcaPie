@@ -42,7 +42,7 @@ If you don't have above, find your resources: Friends, fam, local Hackerspace et
 
 ##### Most used tools:
 * Hammer                                                                                                 
-* Table saw                                                                                                
+* Table saw                                  
 * Screwdrivers                                                                                            
 * Sandpaper 
 * Scissors
