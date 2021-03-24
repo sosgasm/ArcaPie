@@ -1,19 +1,18 @@
 # ArcaPie
+## A black box for retrogaming purposes
 ![Finished project example](https://www.prisamsterdam.com/img/arcapie/arcadebox.jpeg)
 
 ![Unfinished project example](https://www.prisamsterdam.com/img/arcapie/IMG_20190308_185644.jpg)
 
-## A black box for retrogaming purposes
-
 ## Table of contents
 [* Getting Started](https://github.com/sosgasm/ArcaPie#getting-started)
 ### Prerequisites
-[* Hardware](https://github.com/sosgasm/ArcaPie#hardware)
+[* Hardware](https://github.com/sosgasm/ArcaPie#hardware)<br>
 [* Cables](https://github.com/sosgasm/ArcaPie#cables)<br>
 [* Software](https://github.com/sosgasm/ArcaPie#software)<br>
-[* Most used tools](https://github.com/sosgasm/ArcaPie#most-used-tools)
-[* Safety](https://github.com/sosgasm/ArcaPie#safety)
-[* Other](https://github.com/sosgasm/ArcaPie#other)
+[* Most used tools](https://github.com/sosgasm/ArcaPie#most-used-tools)<br>
+[* Safety](https://github.com/sosgasm/ArcaPie#safety)<br>
+[* Other](https://github.com/sosgasm/ArcaPie#other)<br>
 ### The Box
 [* Create the box](https://github.com/sosgasm/ArcaPie#cut-out-six-rectangles-to-create-the-box)
 [* Decoration](https://github.com/sosgasm/ArcaPie#decoration)
