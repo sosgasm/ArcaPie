@@ -6,7 +6,17 @@
 ## A black box for retrogaming purposes
 
 ## Table of contents
-[Getting Started](https://github.com/sosgasm/ArcaPie#getting-started)
+[* Getting Started](https://github.com/sosgasm/ArcaPie#getting-started)
+### Prerequisites
+[* Hardware](https://github.com/sosgasm/ArcaPie#hardware)
+[* Cables](https://github.com/sosgasm/ArcaPie#cables)
+[* Software](https://github.com/sosgasm/ArcaPie#software)
+[* Most used tools](https://github.com/sosgasm/ArcaPie#most-used-tools)
+[* Safety](https://github.com/sosgasm/ArcaPie#safety)
+[* Other](https://github.com/sosgasm/ArcaPie#other)
+### The Box
+[* Create the box](https://github.com/sosgasm/ArcaPie#cut-out-six-rectangles-to-create-the-box)
+[* Decoration]https://github.com/sosgasm/ArcaPie#decoration)
 
 ## Getting Started
 The 80's kid in me wanted a portable arcade unit. So I made one. 
@@ -25,7 +35,8 @@ If you don't have above, find your resources: Friends, fam, local Hackerspace et
 * Bluetooth Keyboard (Old hardware stash I found at home)
 
 ##### Cables:
-*usbc --> HDMI<TODO: insert cables>
+* usbc --> 
+* HDMI<TODO: insert cables>
 
 ##### Software:
 * RetroPie, check [RetroPie.org](https://retropie.org.uk/) and [RetroPie Setup](https://github.com/RetroPie/RetroPie-Setup/wiki)
