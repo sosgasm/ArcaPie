@@ -17,7 +17,7 @@ If you don't have above, find your resources: Friends, fam, local Hackerspace et
 
 ```
 Hardware:
-* Raspberry Pi 3B+ (Donation from @DrWhax)
+* Raspberry Pi 3B+ (Donated)
 * 32GB MicroSD card
 * 10,5 inch monitor with HDMI/VGA ports (Electronics shop in my hometown)
 * Bluetooth Joypad (Ebay)
@@ -57,12 +57,12 @@ Other:
 * Black paint
 * Paintbrush
 * Stickers (decoration)
-* Screws <todo: insert screw type>
+* Screws, whatever you can find
 ```
 
 ```
 I used the following documentation to install RetroPie:
-https://github.com/RetroPie/RetroPie-Setup/wiki/First-Installation
+[RetroPie First Installation](https://github.com/RetroPie/RetroPie-Setup/wiki/First-Installation)
 ```
 ## The box
 My idea of an arcade box was simple: A square or rectangle shaped box with a cut out window for a small monitor.
@@ -73,12 +73,12 @@ Cut out six rectangles to create the box:
 
 * Cut out 6 rectangles with the following  dimensions: <todo:insert dimensions>
 * Smoothen them with sandpaper as much as you want
-* Take one of the planks with dimensions <todo: insert dimensions>
+* Take one of the plywood with dimensions <todo: insert dimensions>
 * Lay the front on the monitor on the plank to draw the outline
 * Cut out the outline to create the placeholder for the monitor
 
 Decoration:
-* Paint the wood. Maybe cut out a little outline for the monitor. As you can see in the picture I also cut out an outline and painted it silver.
+* Paint the plywood. Maybe cut out a little outline for the monitor. As you can see in the picture I also cut out an outline and painted it silver.
 The stickers are for decoration 
 
 ```
