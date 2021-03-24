@@ -27,24 +27,25 @@ If you don't have above, find your resources: Friends, fam, local Hackerspace et
 ### Prerequisites
 
 ##### Hardware:
-* Raspberry Pi 3B+ (Donated)
+* Raspberry Pi 4 
 * 32GB MicroSD card
 * 10,5 inch monitor with HDMI/VGA ports (Electronics shop in my hometown)
 * Bluetooth Joypad (Ebay) and later an USB NES controller which I still need to test
 * Bluetooth Keyboard (Old hardware stash I found at home)
 
 ##### Cables:
-* usbc --> 
-* HDMI<TODO: insert cables>
+* usbc --> HDMI
+* Power cable for your monitor
+* <TODO: insert cables>
 
 ##### Software:
 * RetroPie, check [RetroPie.org](https://retropie.org.uk/) and [RetroPie Setup](https://github.com/RetroPie/RetroPie-Setup/wiki)
 
 ##### Most used tools:
-* Hammer                                                                                                 
-* Table saw                                  
-* Screwdrivers                                                                                            
-* Sandpaper 
+* Hammer
+* Table saw
+* Screwdrivers
+* Sandpaper
 * Scissors
 * Drill
 * Handsaw
@@ -68,6 +69,7 @@ I used the following documentation to install RetroPie:
 
 ## The box
 My idea of an arcade box was simple: A square or rectangle shaped box with a cut out window for a small monitor.
+
 ![Cutout for monitor](https://www.prisamsterdam.com/img/arcapie/frontbox.jpg)
 
 ##### Cut out six rectangles to create the box:
@@ -79,7 +81,7 @@ My idea of an arcade box was simple: A square or rectangle shaped box with a cut
 
 ##### Decoration:
 * I used black paint to paint the plywood. Also cut an outline for the monitor. As you can see in the picture I also cut out an outline and painted it silver.
-The stickers are also for decoration, be creative 
+The stickers are also for decoration, be creative :)
 
 ## License
 
