@@ -29,7 +29,7 @@ Cables:
 
 ```
 Software:
-* RetroPie, check (https://retropie.org.uk/) and (https://github.com/RetroPie/RetroPie-Setup/wiki)
+* RetroPie, check [RetroPie.org](https://retropie.org.uk/) and [RetroPie Setup](https://github.com/RetroPie/RetroPie-Setup/wiki)
 ```
 
 ```
