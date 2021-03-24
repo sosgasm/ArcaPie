@@ -6,14 +6,14 @@
 
 ## Table of contents
 [* Getting Started](https://github.com/sosgasm/ArcaPie#getting-started)
-### Prerequisites
+#### Prerequisites
 [* Hardware](https://github.com/sosgasm/ArcaPie#hardware)<br>
 [* Cables](https://github.com/sosgasm/ArcaPie#cables)<br>
 [* Software](https://github.com/sosgasm/ArcaPie#software)<br>
 [* Most used tools](https://github.com/sosgasm/ArcaPie#most-used-tools)<br>
 [* Safety](https://github.com/sosgasm/ArcaPie#safety)<br>
 [* Other](https://github.com/sosgasm/ArcaPie#other)<br>
-### The Box
+#### The Box
 [* Create the box](https://github.com/sosgasm/ArcaPie#cut-out-six-rectangles-to-create-the-box)
 [* Decoration](https://github.com/sosgasm/ArcaPie#decoration)
 
