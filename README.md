@@ -3,8 +3,10 @@
 
 ![Unfinished project example](https://www.prisamsterdam.com/img/arcapie/IMG_20190308_185644.jpg)
 
-
 ## A black box for retrogaming purposes
+
+## Table of contents
+[Getting Started](https://github.com/sosgasm/ArcaPie#getting-started)
 
 ## Getting Started
 The 80's kid in me wanted a portable arcade unit. So I made one. 
@@ -30,7 +32,7 @@ If you don't have above, find your resources: Friends, fam, local Hackerspace et
 
 ##### Most used tools:
 * Hammer                                                                                                 
-* Sawtable                                                                                                
+* Table saw                                                                                                
 * Screwdrivers                                                                                            
 * Sandpaper 
 * Scissors
@@ -48,7 +50,7 @@ If you don't have above, find your resources: Friends, fam, local Hackerspace et
 * Wood glue
 * Black paint
 * Paintbrush
-* Stickers (decoration)
+* Stickers (for decoration)
 * Screws, whatever you can find
 
 I used the following documentation to install RetroPie:
@@ -58,16 +60,16 @@ I used the following documentation to install RetroPie:
 My idea of an arcade box was simple: A square or rectangle shaped box with a cut out window for a small monitor.
 ![Cutout for monitor](https://www.prisamsterdam.com/img/arcapie/frontbox.jpg)
 
-#####Cut out six rectangles to create the box:
-* Cut out 6 rectangles with the following  dimensions: <todo:insert dimensions>
+##### Cut out six rectangles to create the box:
+* With a table saw, cut out 6 rectangles with the following  dimensions: <todo:insert dimensions>
 * Smoothen them with sandpaper
 * Take one of the plywood with dimensions <todo: insert dimensions>
 * Lay the front on the monitor on the plank to draw the outline
 * Cut out the outline to create the placeholder for the monitor
 
-#####Decoration:
-* Paint the plywood. Maybe cut out a little outline for the monitor. As you can see in the picture I also cut out an outline and painted it silver.
-The stickers are for decoration 
+##### Decoration:
+* I used black paint to paint the plywood. Also cut an outline for the monitor. As you can see in the picture I also cut out an outline and painted it silver.
+The stickers are also for decoration, be creative 
 
 ## License
 
