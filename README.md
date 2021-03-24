@@ -24,13 +24,12 @@ Hardware:
 * Bluetooth Keyboard (Old hardware stash I found at home)
 
 Cables:
-*<TODO: insert cables>
+*usbc --> HDMI<TODO: insert cables>
 ```
 
 ```
 Software:
-* RetroPie, check (https://retropie.org.uk/) and (https://github.com/RetroPie/RetroPie-Setup/wiki)
-```
+* RetroPie, check [RetroPie.org](https://retropie.org.uk/) and [RetroPie Setup](https://github.com/RetroPie/RetroPie-Setup/wiki)
 
 ```
 Most used tools:
