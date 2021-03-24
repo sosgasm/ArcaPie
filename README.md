@@ -30,7 +30,6 @@ Cables:
 ```
 Software:
 * RetroPie, check [RetroPie.org](https://retropie.org.uk/) and [RetroPie Setup](https://github.com/RetroPie/RetroPie-Setup/wiki)
-```
 
 ```
 Most used tools:
