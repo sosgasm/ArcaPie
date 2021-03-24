@@ -24,7 +24,7 @@ Hardware:
 * Bluetooth Keyboard (Old hardware stash I found at home)
 
 Cables:
-*<TODO: insert cables>
+*usbc --> HDMI<TODO: insert cables>
 ```
 
 ```
