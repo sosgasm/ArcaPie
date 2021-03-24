@@ -14,7 +14,7 @@
 [* Safety](https://github.com/sosgasm/ArcaPie#safety)<br>
 [* Other](https://github.com/sosgasm/ArcaPie#other)<br>
 #### The Box
-[* Create the box](https://github.com/sosgasm/ArcaPie#cut-out-six-rectangles-to-create-the-box)
+[* Create the box](https://github.com/sosgasm/ArcaPie#cut-out-six-rectangles-to-create-the-box)<br>
 [* Decoration](https://github.com/sosgasm/ArcaPie#decoration)
 
 ## Getting Started
