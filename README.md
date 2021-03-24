@@ -3,7 +3,7 @@
 
 ![Unfinished project example](https://www.prisamsterdam.com/img/arcapie/IMG_20190308_185644.jpg)
 
- 
+
 ## A black box for retrogaming purposes
 
 ## Getting Started
@@ -36,14 +36,12 @@ If you don't have above, find your resources: Friends, fam, local Hackerspace et
 * Scissors
 * Drill
 * Handsaw
- 
-  
+
+
 ##### Safety:
 * Goggles
 * Gloves
 * Noise cancelling earmuffs
-
-
 
 ##### Other:
 * (Ply)wood
@@ -72,8 +70,6 @@ My idea of an arcade box was simple: A square or rectangle shaped box with a cut
 #####Decoration:
 * Paint the plywood. Maybe cut out a little outline for the monitor. As you can see in the picture I also cut out an outline and painted it silver.
 The stickers are for decoration 
-
-```
 
 ## License
 
