@@ -20,7 +20,7 @@ Hardware:
 * Raspberry Pi 3B+ (Donated)
 * 32GB MicroSD card
 * 10,5 inch monitor with HDMI/VGA ports (Electronics shop in my hometown)
-* Bluetooth Joypad (Ebay)
+* Bluetooth Joypad (Ebay) and later an USB NES controller which I still need to test
 * Bluetooth Keyboard (Old hardware stash I found at home)
 
 Cables:
@@ -72,7 +72,7 @@ My idea of an arcade box was simple: A square or rectangle shaped box with a cut
 Cut out six rectangles to create the box:
 
 * Cut out 6 rectangles with the following  dimensions: <todo:insert dimensions>
-* Smoothen them with sandpaper as much as you want
+* Smoothen them with sandpaper
 * Take one of the plywood with dimensions <todo: insert dimensions>
 * Lay the front on the monitor on the plank to draw the outline
 * Cut out the outline to create the placeholder for the monitor
