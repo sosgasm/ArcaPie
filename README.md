@@ -58,7 +58,7 @@ I used the following documentation to install RetroPie:
 My idea of an arcade box was simple: A square or rectangle shaped box with a cut out window for a small monitor.
 ![Cutout for monitor](https://www.prisamsterdam.com/img/arcapie/frontbox.jpg)
 
-#####Cut out six rectangles to create the box:
+##### Cut out six rectangles to create the box:
 * Cut out 6 rectangles with the following  dimensions: <todo:insert dimensions>
 * Smoothen them with sandpaper
 * Take one of the plywood with dimensions <todo: insert dimensions>
