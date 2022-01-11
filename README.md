@@ -2,7 +2,8 @@
 ## A black box used for retrogaming purposes
 ![Finished project example](https://www.prisamsterdam.com/img/arcapie/arcadebox.jpeg)
 
-![Unfinished project example](https://www.prisamsterdam.com/img/arcapie/IMG_20190308_185644.jpg)
+![Unfinished project example](https://www.prisamsterdam.com/img/arcapie/IMG_20190308_185644.jpg) 
+(As you can see, the dimensions of the box used to be bigger at first, just ajust as you like) 
 
 ## Table of contents
 [* Getting Started](https://github.com/sosgasm/ArcaPie#getting-started)
