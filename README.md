@@ -1,5 +1,5 @@
 # ArcaPie
-## A black box for retrogaming purposes
+## A black box used for retrogaming purposes
 ![Finished project example](https://www.prisamsterdam.com/img/arcapie/arcadebox.jpeg)
 
 ![Unfinished project example](https://www.prisamsterdam.com/img/arcapie/IMG_20190308_185644.jpg)
@@ -18,9 +18,9 @@
 [* Decoration](https://github.com/sosgasm/ArcaPie#decoration)
 
 ## Getting Started
-The 80's kid in me wanted a portable arcade unit. So I made one. 
+The 80's kid in me wanted a portable arcade unit, so I decided to make one. 
 
-I've got the privilege to have access to a woodworking space, providing all the tools I needed. Also I had access to free wood. 
+I have the privilege to have access to a woodworking space, providing all the tools and materials needed. 
 Basic knowledge of woodworking/some linux based OS/computers/electronics might come handy.
 If you don't have above, find your resources: Friends, fam, local Hackerspace etc.
 
@@ -73,9 +73,9 @@ My idea of an arcade box was simple: A square or rectangle shaped box with a cut
 ![Cutout for monitor](https://www.prisamsterdam.com/img/arcapie/frontbox.jpg)
 
 ##### Cut out six rectangles to create the box:
-* With a table saw, cut out 6 rectangles with the following  dimensions: <todo:insert dimensions>
+* With a table saw, cut out 2 rectangles with the following  dimensions: 23.5cm x 35.3cm, 2 rectangles with dimensions 10cm x 35.3cm and another two with dimensions 10cm x 23cm
 * Smoothen them with sandpaper
-* Take one of the plywood with dimensions <todo: insert dimensions>
+* Take one of the plywood with dimensions 23.5cm x 36.3cm
 * Lay the front on the monitor on the plank to draw the outline
 * Cut out the outline to create the placeholder for the monitor
 
