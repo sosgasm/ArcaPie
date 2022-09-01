@@ -1,5 +1,5 @@
 # ArcaPie
-## A black box used for retrogaming purposes, with #retropie on the inside
+## A black box used for retrogaming purposes
 <img src="/arcapie01.jpg?raw=true" width="300px">
 
 ## Table of contents
@@ -71,7 +71,7 @@ My idea of an arcade box was simple: A square or rectangle shaped box with a cut
 ![Cutout for monitor](https://www.prisamsterdam.com/p_dcim/arcapie/arcapie02.jpg)
 
 ##### Cut out six rectangles to create the box:
-* With a table saw, cut out 2 rectangles with the following  dimensions: 23.5cm x 35.3cm, 2 rectangles with dimensions 10cm x 35.3cm and another two with dimensions 10cm x 23cm
+* Using a table saw,I cut out 2 rectangles with the following  dimensions: 23.5cm x 35.3cm, 2 rectangles with dimensions 10cm x 35.3cm and another two with dimensions 10cm x 23cm
 * Smoothen them with sandpaper
 * Take one of the plywood with dimensions 23.5cm x 36.3cm
 * Lay the front on the monitor on the plank to draw the outline
@@ -79,7 +79,7 @@ My idea of an arcade box was simple: A square or rectangle shaped box with a cut
 
 ##### Decoration:
 * I used black paint to paint the plywood. Also cut an outline for the monitor. As you can see in the picture I also cut out an outline and painted it silver.
-The stickers are also for decoration, be creative :)
+I used stickers for decoration :)
 
 ## License
 
