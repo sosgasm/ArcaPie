@@ -1,6 +1,6 @@
 # ArcaPie
 ## A black box used for retrogaming purposes
-<img src="/arcapie01.jpg?raw=true" width="300px">
+<img src="/arcapie01.jpg?raw=true" width="500px">
 
 ## Table of contents
 [* Getting Started](https://github.com/sosgasm/ArcaPie#getting-started)
