@@ -1,6 +1,6 @@
 # ArcaPie
 ## A black box used for retrogaming purposes, with #retropie on the inside
-![Finished project example](https://www.prisamsterdam.com/img/arcapie/arcadebox.jpeg)
+![Finished project example](https://www.prisamsterdam.com/p_dcim/arcapie/arcapie01.jpeg)
 
 ![Unfinished project example](https://www.prisamsterdam.com/img/arcapie/IMG_20190308_185644.jpg)<br> 
 (As you can see, the dimensions of the box used to be bigger at first, so adjust as you like) 
