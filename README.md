@@ -1,9 +1,6 @@
 # ArcaPie
 ## A black box used for retrogaming purposes, with #retropie on the inside
-![Finished project example](https://www.prisamsterdam.com/p_dcim/arcapie/arcapie01.jpeg)
-
-![Unfinished project example](https://www.prisamsterdam.com/img/arcapie/IMG_20190308_185644.jpg)<br> 
-(As you can see, the dimensions of the box used to be bigger at first, so adjust as you like) 
+![Finished project example](https://www.prisamsterdam.com/p_dcim/arcapie/arcapie01.jpg)
 
 ## Table of contents
 [* Getting Started](https://github.com/sosgasm/ArcaPie#getting-started)
@@ -71,7 +68,7 @@ I used the following documentation to install RetroPie:
 ## The box
 My idea of an arcade box was simple: A square or rectangle shaped box with a cut out window for a small monitor.
 
-![Cutout for monitor](https://www.prisamsterdam.com/img/arcapie/frontbox.jpg)
+![Cutout for monitor](https://www.prisamsterdam.com/p_dcim/arcapie/arcapie02.jpg)
 
 ##### Cut out six rectangles to create the box:
 * With a table saw, cut out 2 rectangles with the following  dimensions: 23.5cm x 35.3cm, 2 rectangles with dimensions 10cm x 35.3cm and another two with dimensions 10cm x 23cm
